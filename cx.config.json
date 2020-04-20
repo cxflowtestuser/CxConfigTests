@@ -6,7 +6,7 @@
 			"MEDIUM": 3         
       },
 	  "filters" : {
-			"severity": ["High", "Medium"]
+			"severity": ["High"]
       }
 
     }
