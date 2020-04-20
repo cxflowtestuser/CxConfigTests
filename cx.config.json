@@ -4,8 +4,8 @@
 	    "thresholds" : {
 			"MEDIUM": 1, 
 			"LOW": 15        
-      }
-	  	    "filters" : {
+      },
+	  "filters" : {
 			"severity": ["High", "Medium"]
       }
 
