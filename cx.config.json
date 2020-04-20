@@ -2,8 +2,8 @@
   "additionalProperties" : {
     "cxFlow": {
 	    "thresholds" : {
-			"MEDIUM": 1, 
-			"LOW": 15        
+			"HIGH": 3, 
+			"MEDIUM": 3         
       },
 	  "filters" : {
 			"severity": ["High", "Medium"]
