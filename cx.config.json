@@ -1,0 +1,10 @@
+{
+  "additionalProperties" : {
+    "cxFlow": {
+	    "thresholds" : {
+			"MEDIUM": 8, 
+			"LOW": 15        
+      }
+    }
+  }
+}
