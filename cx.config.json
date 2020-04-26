@@ -9,7 +9,7 @@
 				"severity": ["High", "Medium"]
 
 			},
-			"bugTracker": "Github"
+			"bugTracker": "githubpull"
 		}
 	}
 }
